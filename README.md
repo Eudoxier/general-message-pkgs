@@ -32,3 +32,7 @@ To compile, you can now use catkin\_make as usual:
 cd ..
 catkin_make
 ```
+
+---
+
+Forked from [JenniferBuehler/general-message-pkgs](https://github.com/JenniferBuehler/general-message-pkgs) and updated for ROS Kinetic.
